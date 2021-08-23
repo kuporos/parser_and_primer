@@ -1,0 +1,3770 @@
+[
+    {
+        "id": 133784211,
+        "http": "https://www.kufar.by/item/133784211",
+        "equipment": "Xiaomi mi note 10 lite",
+        "name": "Павел",
+        "description": null,
+        "price": 700.0,
+        "phones_brand": "Xiaomi",
+        "model": "Другая",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605535637.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622582275.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5614058956.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133784067,
+        "http": "https://www.kufar.by/item/133784067",
+        "equipment": "HUAWEI P30 PRO",
+        "name": "Сергей",
+        "description": null,
+        "price": 850.0,
+        "phones_brand": "Huawei",
+        "model": "P30 Pro",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631354093.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622830774.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639877412.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688737498.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5618271118.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660887713.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605188143.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5601224480.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648400731.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133784002,
+        "http": "https://www.kufar.by/item/133784002",
+        "equipment": "  MI A2",
+        "name": "Nikita",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi A2 (Mi 6X)",
+        "memory": "32 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609331223.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626377861.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617854542.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783936,
+        "http": "https://www.kufar.by/item/133783936",
+        "equipment": "Нокиа 5070",
+        "name": "Николай",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Nokia",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677593048.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669069729.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783871,
+        "http": "https://www.kufar.by/item/133783871",
+        "equipment": "Телефон",
+        "name": "сергей",
+        "description": null,
+        "price": 40.0,
+        "phones_brand": "Fly",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616737829.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670157571.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783863,
+        "http": "https://www.kufar.by/item/133783863",
+        "equipment": "Телефон ",
+        "name": "Продавец ",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695131535.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686608216.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783833,
+        "http": "https://www.kufar.by/item/133783833",
+        "equipment": "Телефон ",
+        "name": "Диана",
+        "description": null,
+        "price": 200.0,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668577880.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677101199.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660054561.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783698,
+        "http": "https://www.kufar.by/item/133783698",
+        "equipment": "Смартфон Xiaomi Redmi Note 8 Pro 6GB/64GB ",
+        "name": "Саша",
+        "description": null,
+        "price": 310.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 8 Pro",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600940919.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609464238.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783696,
+        "http": "https://www.kufar.by/item/133783696",
+        "equipment": "Телефон",
+        "name": "Максим",
+        "description": null,
+        "price": 50.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J7 Duo",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602046292.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693522973.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5674792500.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783688,
+        "http": "https://www.kufar.by/item/133783688",
+        "equipment": "Samsung Galaxy A50",
+        "name": "Алла",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A50",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678981982.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696028620.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783683,
+        "http": "https://www.kufar.by/item/133783683",
+        "equipment": "Телефоны",
+        "name": "Дина",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699662320.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783662,
+        "http": "https://www.kufar.by/item/133783662",
+        "equipment": "Телефоны",
+        "name": "Ксюша",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5623652586.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783619,
+        "http": "https://www.kufar.by/item/133783619",
+        "equipment": "POCO M3 6000 батарея,стереозвук",
+        "name": "Анна",
+        "description": null,
+        "price": 400.0,
+        "phones_brand": "Xiaomi",
+        "model": "Poco M3",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684299517.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685491503.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783610,
+        "http": "https://www.kufar.by/item/133783610",
+        "equipment": "Xiaomi redmi note 9 pro",
+        "name": "пользователь",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694014822.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783539,
+        "http": "https://www.kufar.by/item/133783539",
+        "equipment": "Телефон Samsung J7. ",
+        "name": "Алена",
+        "description": null,
+        "price": 17.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J7 ",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664660619.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690230576.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681707257.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698753895.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673183938.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783343,
+        "http": "https://www.kufar.by/item/133783343",
+        "equipment": "Poco X3 NFC ",
+        "name": "Витебск",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Poco X3",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133783333,
+        "http": "https://www.kufar.by/item/133783333",
+        "equipment": "Мобильный телефон",
+        "name": "Лариса",
+        "description": null,
+        "price": 10.0,
+        "phones_brand": "Nokia",
+        "model": "1",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662068359.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5645021721.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783291,
+        "http": "https://www.kufar.by/item/133783291",
+        "equipment": "Телефон ",
+        "name": "Максим",
+        "description": null,
+        "price": 40.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 4",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684345919.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675822600.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667299281.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132063565,
+        "http": "https://www.kufar.by/item/132063565",
+        "equipment": "Xiaomi Redmi Note 5A",
+        "name": "влад",
+        "description": null,
+        "price": 90.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 5a",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3688161039.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3609767333.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3612643154.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3685389362.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3698472337.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/36/3656451735.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783182,
+        "http": "https://www.kufar.by/item/133783182",
+        "equipment": "Кастомный iphone 5s ",
+        "name": "Артур",
+        "description": null,
+        "price": 90.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5s",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692585677.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684062358.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667015720.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5601108996.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5618155634.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626678953.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675539039.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609632315.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5646601412.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783117,
+        "http": "https://www.kufar.by/item/133783117",
+        "equipment": "Блок питания",
+        "name": "Влад",
+        "description": null,
+        "price": 6.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661755927.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653232608.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783041,
+        "http": "https://www.kufar.by/item/133783041",
+        "equipment": "iPhone XS 64gb Gold СТБ",
+        "name": "Пользователь ",
+        "description": null,
+        "price": 1000.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS",
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649656650.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658179969.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666703288.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683749926.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675226607.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692273245.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600796564.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609319883.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133783003,
+        "http": "https://www.kufar.by/item/133783003",
+        "equipment": "Huawei P40 lite ''Розовая сакура'' ",
+        "name": "Валерия",
+        "description": null,
+        "price": 550.0,
+        "phones_brand": "Huawei",
+        "model": "P40 lite",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609100255.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666483660.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683530298.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649437022.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5657960341.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675006979.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692053617.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600576936.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639229868.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782989,
+        "http": "https://www.kufar.by/item/133782989",
+        "equipment": "Huawei P8 Lite ",
+        "name": "Елена ",
+        "description": null,
+        "price": 130.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678461262.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661414624.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652891305.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782938,
+        "http": "https://www.kufar.by/item/133782938",
+        "equipment": "Айфон 6",
+        "name": "Данила",
+        "description": null,
+        "price": 30.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 6",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681365954.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5689889273.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782925,
+        "http": "https://www.kufar.by/item/133782925",
+        "equipment": "iPhone se ",
+        "name": "........",
+        "description": null,
+        "price": 175.0,
+        "phones_brand": "Apple",
+        "model": "iPhone SE",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619943613.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5645513570.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611420294.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5628466932.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636990251.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602896975.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782852,
+        "http": "https://www.kufar.by/item/133782852",
+        "equipment": "iPhone 12 Pro Max 128gb blue месяц бу",
+        "name": "Рита",
+        "description": null,
+        "price": 2630.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 12 Pro Max",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603776529.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782846,
+        "http": "https://www.kufar.by/item/133782846",
+        "equipment": "iPhone 7 128 gb",
+        "name": "Леонид",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636261243.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624966247.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625070391.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5630226040.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133604970,
+        "http": "https://www.kufar.by/item/133604970",
+        "equipment": "Xiaomi Redmi 5 Plus 4GB/64GB",
+        "name": "Алексей",
+        "description": null,
+        "price": 80.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 5 (Redmi 5 Plus)",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5457930855.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5466454174.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5440884217.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5432360898.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5449407536.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782797,
+        "http": "https://www.kufar.by/item/133782797",
+        "equipment": "Xiaomi mi9t 6/128",
+        "name": "Вячеслав",
+        "description": null,
+        "price": 605.99,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 9T",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133782703,
+        "http": "https://www.kufar.by/item/133782703",
+        "equipment": "HUAWEI Y6",
+        "name": "Ольга",
+        "description": null,
+        "price": 170.0,
+        "phones_brand": "Huawei",
+        "model": "Y6",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636869618.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662439575.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5645392937.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647389204.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647504688.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5697058720.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782660,
+        "http": "https://www.kufar.by/item/133782660",
+        "equipment": "Samsung a71 ",
+        "name": "Эдуард",
+        "description": null,
+        "price": 610.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A71",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681128795.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698175433.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5672605476.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5689652114.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782586,
+        "http": "https://www.kufar.by/item/133782586",
+        "equipment": "iPhone SE 2 поколение",
+        "name": "Екатерина",
+        "description": null,
+        "price": 450.0,
+        "phones_brand": "Apple",
+        "model": "iPhone SE",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624387785.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633507097.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692082488.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5635891069.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782577,
+        "http": "https://www.kufar.by/item/133782577",
+        "equipment": "Huawei P8 lite",
+        "name": "Витебск",
+        "description": null,
+        "price": 55.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "16 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5676511397.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678791225.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5623687648.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133054043,
+        "http": "https://www.kufar.by/item/133054043",
+        "equipment": "Huawei p20 pro, 6/128gb",
+        "name": "Евгений",
+        "description": null,
+        "price": 629.0,
+        "phones_brand": "Huawei",
+        "model": "P20 Pro",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/47/4797949299.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782483,
+        "http": "https://www.kufar.by/item/133782483",
+        "equipment": "Смартфон Xiaomi Redmi 5A 3GB/32GB",
+        "name": "Андрей",
+        "description": null,
+        "price": 120.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 5a",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5654876232.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636145759.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653192397.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661715716.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678762354.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670239035.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5687285673.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668555200.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5665187530.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782480,
+        "http": "https://www.kufar.by/item/133782480",
+        "equipment": "iPhone 8 64gb Gold СТБ ",
+        "name": "Пользователь",
+        "description": null,
+        "price": 560.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636411789.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644935108.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653458427.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670505065.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661981746.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679028384.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696075022.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133761698,
+        "http": "https://www.kufar.by/item/133761698",
+        "equipment": "Xiaomi Redmi 5 Plus",
+        "name": "Денис",
+        "description": null,
+        "price": 155.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5623443317.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631966636.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5640489955.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133216018,
+        "http": "https://www.kufar.by/item/133216018",
+        "equipment": "Iphone XS 64Gb, айфон xs, без обменов",
+        "name": "Yegor",
+        "description": null,
+        "price": 1150.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4900973216.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4900793799.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4941309983.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4949833302.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4958356621.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4966879940.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4992449897.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4909496535.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782344,
+        "http": "https://www.kufar.by/item/133782344",
+        "equipment": "Xiaomi Redmi 7A 2Gb/32Gb",
+        "name": "Пользователь",
+        "description": null,
+        "price": 35.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 7A",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5676019548.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684542867.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782170,
+        "http": "https://www.kufar.by/item/133782170",
+        "equipment": "Телефон Xiaomi Mi 5x",
+        "name": "Алеся",
+        "description": null,
+        "price": 130.0,
+        "phones_brand": "Xiaomi",
+        "model": "Другая",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698713684.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5641330279.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607237003.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624283641.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5632806960.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5615760322.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782122,
+        "http": "https://www.kufar.by/item/133782122",
+        "equipment": "Продам два первых А1,третий под все сим ",
+        "name": "Savl Free",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Nokia",
+        "model": "3310",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664099688.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655576369.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782103,
+        "http": "https://www.kufar.by/item/133782103",
+        "equipment": "Huawei P40 Lite E",
+        "name": "Игорь",
+        "description": null,
+        "price": 235.0,
+        "phones_brand": "Huawei",
+        "model": "P40 lite",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625001309.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607954671.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616477990.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133782037,
+        "http": "https://www.kufar.by/item/133782037",
+        "equipment": "iPhone 11 128gb",
+        "name": "Вадим",
+        "description": null,
+        "price": 1600.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5615997481.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781937,
+        "http": "https://www.kufar.by/item/133781937",
+        "equipment": "iPhone 7 128gb на активации",
+        "name": "Александр",
+        "description": null,
+        "price": 120.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "128 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609979809.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684409852.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5601456490.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692933171.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781852,
+        "http": "https://www.kufar.by/item/133781852",
+        "equipment": "Samsung Galaxy A50",
+        "name": "QWERTY",
+        "description": null,
+        "price": 220.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A50",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683918003.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692441322.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781757,
+        "http": "https://www.kufar.by/item/133781757",
+        "equipment": "Xiaomi Redmi 4",
+        "name": "Александр",
+        "description": null,
+        "price": 55.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 4",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612959774.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604436455.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781701,
+        "http": "https://www.kufar.by/item/133781701",
+        "equipment": "Galaxy S20 Красный",
+        "name": "Alex",
+        "description": null,
+        "price": 1150.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy S20 5G",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670881430.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781615,
+        "http": "https://www.kufar.by/item/133781615",
+        "equipment": "IPhone 6s в отличном состоянии",
+        "name": "Даниил",
+        "description": null,
+        "price": 249.99,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133781585,
+        "http": "https://www.kufar.by/item/133781585",
+        "equipment": "iPhone 6s 32 original ",
+        "name": "Владислав ",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693575566.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685052247.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602098885.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619145523.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5627668842.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610622204.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781512,
+        "http": "https://www.kufar.by/item/133781512",
+        "equipment": "iPhone 11",
+        "name": "User",
+        "description": null,
+        "price": 1450.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675099783.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666576464.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686498923.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677975604.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695022242.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781350,
+        "http": "https://www.kufar.by/item/133781350",
+        "equipment": "Honor 8x",
+        "name": "иван",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Honor",
+        "model": "8X",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622021344.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604974706.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613498025.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781254,
+        "http": "https://www.kufar.by/item/133781254",
+        "equipment": "Телефоны",
+        "name": "Mort",
+        "description": null,
+        "price": 10.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": "до 8 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5614840557.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664192492.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5628698942.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673699509.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5682818821.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666964169.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611964736.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781245,
+        "http": "https://www.kufar.by/item/133781245",
+        "equipment": "IPhone 7+",
+        "name": "Даша ",
+        "description": null,
+        "price": 600.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7 Plus",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690017139.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681493820.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781215,
+        "http": "https://www.kufar.by/item/133781215",
+        "equipment": "смартфон",
+        "name": "Александр",
+        "description": null,
+        "price": 100.0,
+        "phones_brand": "Huawei",
+        "model": "Y6p",
+        "memory": null,
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667624095.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691851520.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658770813.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624989969.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679914129.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133781107,
+        "http": "https://www.kufar.by/item/133781107",
+        "equipment": "iPhone SE 16ГБ",
+        "name": "Евгений",
+        "description": null,
+        "price": 200.0,
+        "phones_brand": "Apple",
+        "model": "iPhone SE",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602070014.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610593333.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619116652.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5627639971.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636163290.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132371966,
+        "http": "https://www.kufar.by/item/132371966",
+        "equipment": "Iphone 8 64 gb оригинал",
+        "name": "lilya",
+        "description": null,
+        "price": 640.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4093583028.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4010629666.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4002106347.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4076536390.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4085059709.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780956,
+        "http": "https://www.kufar.by/item/133780956",
+        "equipment": "Xiaomi Redmi 8a 2GB/32GB",
+        "name": "Дмитрий",
+        "description": null,
+        "price": 165.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 8A",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5630573534.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780895,
+        "http": "https://www.kufar.by/item/133780895",
+        "equipment": "Mi 11 lite 6/128",
+        "name": "дмитрий",
+        "description": null,
+        "price": 720.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 11 lite",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133780852,
+        "http": "https://www.kufar.by/item/133780852",
+        "equipment": "Honor ",
+        "name": "Иван",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Honor",
+        "model": "10 Lite",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667039442.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675562761.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780821,
+        "http": "https://www.kufar.by/item/133780821",
+        "equipment": "Nokia 5",
+        "name": "ваня",
+        "description": null,
+        "price": 75.0,
+        "phones_brand": "Nokia",
+        "model": "5",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608076346.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699553027.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691029708.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5682506389.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616599665.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780799,
+        "http": "https://www.kufar.by/item/133780799",
+        "equipment": "APPLE IPHONE XR WHITE 64 GB",
+        "name": "Ксения",
+        "description": null,
+        "price": 1003.0,
+        "phones_brand": "Apple",
+        "model": "IPhone XR",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696260630.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679213992.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5676934164.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5659887526.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5687737311.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670690673.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780680,
+        "http": "https://www.kufar.by/item/133780680",
+        "equipment": "Huawei P20 Lite ",
+        "name": "Артём",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Huawei",
+        "model": "P20 lite ",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626210826.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634734145.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647817120.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5643257464.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683594231.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675070912.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649500955.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658024274.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695305803.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780644,
+        "http": "https://www.kufar.by/item/133780644",
+        "equipment": "iPhone 12 Pro ",
+        "name": "Лиза",
+        "description": null,
+        "price": 2500.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 12 Pro",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605096381.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780625,
+        "http": "https://www.kufar.by/item/133780625",
+        "equipment": "iPhone 12 64GB BLACK 3 МЕСЯЦА Б/У",
+        "name": "KB24",
+        "description": null,
+        "price": 2030.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 12",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667143586.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605796518.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604112683.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698465185.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5606988504.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5615511823.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780607,
+        "http": "https://www.kufar.by/item/133780607",
+        "equipment": "Redmi Note 7 срочно",
+        "name": "Олег",
+        "description": null,
+        "price": 210.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 7",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620846889.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5629370208.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637893527.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132655192,
+        "http": "https://www.kufar.by/item/132655192",
+        "equipment": "Xiaomi Redmi 7a телефон Торг.",
+        "name": "Дарья",
+        "description": null,
+        "price": 190.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 7A",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/43/4301869559.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780557,
+        "http": "https://www.kufar.by/item/133780557",
+        "equipment": "Iphone xr",
+        "name": "олег",
+        "description": null,
+        "price": 900.0,
+        "phones_brand": "Apple",
+        "model": "IPhone XR",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668723277.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677246596.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694293234.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685769915.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780523,
+        "http": "https://www.kufar.by/item/133780523",
+        "equipment": "Sony Xperia E5",
+        "name": "Mort",
+        "description": null,
+        "price": 110.0,
+        "phones_brand": "Sony",
+        "model": "Другая",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5672090947.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680614266.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5689137585.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5697660904.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133361898,
+        "http": "https://www.kufar.by/item/133361898",
+        "equipment": "Телефон Самсунг ",
+        "name": "Александр ",
+        "description": null,
+        "price": 300.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A50",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/51/5102061734.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/51/5193538415.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780478,
+        "http": "https://www.kufar.by/item/133780478",
+        "equipment": "Appple iPhone 12 mini 128 Gb",
+        "name": "Андрей",
+        "description": null,
+        "price": 1800.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 12 mini",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636284965.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693668370.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619238327.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602191689.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610715008.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685145051.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644808284.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780426,
+        "http": "https://www.kufar.by/item/133780426",
+        "equipment": "Apple IPHONE 7 Plus",
+        "name": "Продавец",
+        "description": null,
+        "price": 600.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7 Plus",
+        "memory": "32 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620326169.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609523022.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600999703.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611802850.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671466083.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679989402.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780403,
+        "http": "https://www.kufar.by/item/133780403",
+        "equipment": "Нокиа C2-02",
+        "name": "Николай",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Nokia",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5659470950.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667994269.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780351,
+        "http": "https://www.kufar.by/item/133780351",
+        "equipment": "Samsung Galaxy S7 G930f в отличном состоянии ",
+        "name": "Павел ",
+        "description": null,
+        "price": 300.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603487819.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686441181.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780307,
+        "http": "https://www.kufar.by/item/133780307",
+        "equipment": "iPhone 8-256gb бу идеальное состояние ",
+        "name": "Дмитрий",
+        "description": null,
+        "price": 700.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "256 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5665506153.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649339069.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691463815.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686412310.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780157,
+        "http": "https://www.kufar.by/item/133780157",
+        "equipment": "Huawei y6 2018",
+        "name": "Саня ",
+        "description": null,
+        "price": 100.0,
+        "phones_brand": "Huawei",
+        "model": "Y6",
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5656490985.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647967666.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5665014304.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780135,
+        "http": "https://www.kufar.by/item/133780135",
+        "equipment": "Nokia 8",
+        "name": "Dungeon Master",
+        "description": null,
+        "price": 300.0,
+        "phones_brand": "Nokia",
+        "model": "8",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688483850.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5697007169.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780134,
+        "http": "https://www.kufar.by/item/133780134",
+        "equipment": "Xiaomi",
+        "name": "виталик",
+        "description": null,
+        "price": 270.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 7",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680915358.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5663868720.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5672392039.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133780049,
+        "http": "https://www.kufar.by/item/133780049",
+        "equipment": "iPhone 6 32gb",
+        "name": "Роман",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 6",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633976266.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5642499585.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5651022904.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668069542.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670349370.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779908,
+        "http": "https://www.kufar.by/item/133779908",
+        "equipment": "huawei p40 pro",
+        "name": "Владимир ",
+        "description": null,
+        "price": 1560.0,
+        "phones_brand": "Huawei",
+        "model": "P40 Pro",
+        "memory": "256 GB",
+        "ram_memory": "8 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5629671300.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604830351.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779846,
+        "http": "https://www.kufar.by/item/133779846",
+        "equipment": "Apple iPhone 6S (A1633) 16Gb Silver ",
+        "name": "Александр",
+        "description": null,
+        "price": 199.99,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685683302.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5643066707.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5651590026.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668636664.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660113345.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694206621.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602729940.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677159983.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779784,
+        "http": "https://www.kufar.by/item/133779784",
+        "equipment": "Huawei Mate 30 5G",
+        "name": "Пользователь",
+        "description": null,
+        "price": 1220.0,
+        "phones_brand": "Huawei",
+        "model": "Mate 30",
+        "memory": "256 GB",
+        "ram_memory": "8 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648326500.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5618792880.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625632364.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779787,
+        "http": "https://www.kufar.by/item/133779787",
+        "equipment": "Huawei p20 pro ",
+        "name": "Alina",
+        "description": null,
+        "price": 650.0,
+        "phones_brand": "Huawei",
+        "model": "P20 Pro",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660281422.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5676251558.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5615708771.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779785,
+        "http": "https://www.kufar.by/item/133779785",
+        "equipment": "HUAWEI ",
+        "name": "Светлана ",
+        "description": null,
+        "price": 490.0,
+        "phones_brand": "Huawei",
+        "model": "P20 lite ",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600212953.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617259591.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608736272.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779724,
+        "http": "https://www.kufar.by/item/133779724",
+        "equipment": "Плата на айфон 5s на 32 гига 30р ",
+        "name": "прадавец ",
+        "description": null,
+        "price": 30.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5s",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133779546,
+        "http": "https://www.kufar.by/item/133779546",
+        "equipment": "Хуавей 9 лаит ",
+        "name": "Иван",
+        "description": null,
+        "price": 105.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133779552,
+        "http": "https://www.kufar.by/item/133779552",
+        "equipment": "Мобильный телефон Xiaomi Redmi 3S. Цена договорная",
+        "name": "Дмитрий ",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Другая",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5650207283.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667253921.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5641683964.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658730602.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779517,
+        "http": "https://www.kufar.by/item/133779517",
+        "equipment": "Samsung Galaxy J5 Black J500H",
+        "name": "Влад",
+        "description": null,
+        "price": 35.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J5 ",
+        "memory": "до 8 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625262190.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633785509.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608215552.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616738871.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779432,
+        "http": "https://www.kufar.by/item/133779432",
+        "equipment": "iPhone 7",
+        "name": "Пользователь ",
+        "description": null,
+        "price": 199.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625829312.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617305993.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608782674.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634352631.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779374,
+        "http": "https://www.kufar.by/item/133779374",
+        "equipment": "IPhone 6s 16",
+        "name": "Вадим",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698812679.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690289360.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 129358322,
+        "http": "https://www.kufar.by/item/129358322",
+        "equipment": "Смартфон  Xiaomi Redmi 5",
+        "name": "SANDRA ASHRAF",
+        "description": null,
+        "price": 240.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 5",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9912090712.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9980277264.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9971753945.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9963230626.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9954707307.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/99/9929137350.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779243,
+        "http": "https://www.kufar.by/item/133779243",
+        "equipment": "Honor 30",
+        "name": "..",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Honor",
+        "model": null,
+        "memory": "128 GB",
+        "ram_memory": "8 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696636995.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779224,
+        "http": "https://www.kufar.by/item/133779224",
+        "equipment": "Huawei P smart",
+        "name": "Виктория",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Huawei",
+        "model": "P Smart ",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678415902.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661369264.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669892583.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686939221.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647794440.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132380461,
+        "http": "https://www.kufar.by/item/132380461",
+        "equipment": "iphone 11 64 Черный",
+        "name": "Кирилл",
+        "description": null,
+        "price": 1450.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4094032582.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4002555901.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4019602539.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4011079220.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4085509263.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4036649177.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/40/4020852267.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133779127,
+        "http": "https://www.kufar.by/item/133779127",
+        "equipment": "Телефон Samsung",
+        "name": "Элла",
+        "description": null,
+        "price": 260.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A02s",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5663278918.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603256851.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604448837.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695925518.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777646,
+        "http": "https://www.kufar.by/item/133777646",
+        "equipment": "iPhone 11 Pro max",
+        "name": "Иван",
+        "description": null,
+        "price": 1715.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11 Pro Max",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661027961.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686597918.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678074599.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695121237.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612167875.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603644556.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5643981323.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652504642.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669551280.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778986,
+        "http": "https://www.kufar.by/item/133778986",
+        "equipment": "Xiaomi Redmi note 5 4/64 GB",
+        "name": "Алексей",
+        "description": null,
+        "price": 100.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 5 Pro",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678057068.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5659922588.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778950,
+        "http": "https://www.kufar.by/item/133778950",
+        "equipment": "Apple iPhone XS MAX 512 GB",
+        "name": "Юлия",
+        "description": null,
+        "price": 1520.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS Max",
+        "memory": "512 GB и более",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648211016.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631164378.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622641059.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5614117740.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639687697.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778913,
+        "http": "https://www.kufar.by/item/133778913",
+        "equipment": "IPhone 5",
+        "name": "Антон",
+        "description": null,
+        "price": 100.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602718600.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611241919.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778876,
+        "http": "https://www.kufar.by/item/133778876",
+        "equipment": "iPhone 7 Plus ",
+        "name": "Диана",
+        "description": null,
+        "price": 300.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7 Plus",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133778859,
+        "http": "https://www.kufar.by/item/133778859",
+        "equipment": "Мобильный телефон Huawei P Smart 2018",
+        "name": "Денис",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "Huawei",
+        "model": "P Smart ",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5651399269.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626425305.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634948624.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673271593.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778693,
+        "http": "https://www.kufar.by/item/133778693",
+        "equipment": "Мобильный телефон",
+        "name": "Александр",
+        "description": null,
+        "price": 185.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 6",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644340157.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652863476.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669910114.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5638692659.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637008824.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694988222.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778612,
+        "http": "https://www.kufar.by/item/133778612",
+        "equipment": "Смартфон Xiaomi Redmi Note 8 4GB/64GB",
+        "name": "Андрей",
+        "description": null,
+        "price": 320.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 8",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619221838.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664610110.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5656086791.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681656748.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690180067.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5615750024.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698703386.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624273343.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607226705.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778565,
+        "http": "https://www.kufar.by/item/133778565",
+        "equipment": "Samsung galaxy J 7 ",
+        "name": "Катя",
+        "description": null,
+        "price": 160.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J7 ",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688414768.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696938087.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778551,
+        "http": "https://www.kufar.by/item/133778551",
+        "equipment": "Samsung a6",
+        "name": "Юрий Семенец",
+        "description": null,
+        "price": 120.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A6",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699605620.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625175577.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616652258.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608128939.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691082301.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633698896.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778443,
+        "http": "https://www.kufar.by/item/133778443",
+        "equipment": "Игровой Xiaomi Pocophone f1 6/64 faceid обмен ",
+        "name": "куплю",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Pocophone F1",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620019928.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602973290.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611496609.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778379,
+        "http": "https://www.kufar.by/item/133778379",
+        "equipment": "Samsung S21 Ultra 5G 128 Gb",
+        "name": " Сергей",
+        "description": null,
+        "price": 2800.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy S21 Ultra 5G",
+        "memory": "128 GB",
+        "ram_memory": "10 GB и более",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5638125537.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778371,
+        "http": "https://www.kufar.by/item/133778371",
+        "equipment": "Samsung A51",
+        "name": "Дарья",
+        "description": null,
+        "price": 400.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A51",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5632894615.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607324658.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698801339.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5641417934.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624371296.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778363,
+        "http": "https://www.kufar.by/item/133778363",
+        "equipment": "Iphone x",
+        "name": "Алексей ",
+        "description": null,
+        "price": 1000.0,
+        "phones_brand": "Apple",
+        "model": "iPhone X",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5646914886.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679966722.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655438205.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133778259,
+        "http": "https://www.kufar.by/item/133778259",
+        "equipment": "IPhone 11 Pro Max 256 gb SpaceGray",
+        "name": "Вячеслав",
+        "description": null,
+        "price": 1890.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11 Pro Max",
+        "memory": "256 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608817736.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600294417.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691771098.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683247779.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5674724460.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668880014.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777999,
+        "http": "https://www.kufar.by/item/133777999",
+        "equipment": "Телефон",
+        "name": "Юрий Семенец",
+        "description": null,
+        "price": 25.0,
+        "phones_brand": "Alcatel",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673514943.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690561581.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5682038262.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777875,
+        "http": "https://www.kufar.by/item/133777875",
+        "equipment": "MI9T обмен ",
+        "name": "Александр ",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 9T",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602556714.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699785037.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777615,
+        "http": "https://www.kufar.by/item/133777615",
+        "equipment": "Xiaomi Redmi note 9",
+        "name": "Екатерина",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133777428,
+        "http": "https://www.kufar.by/item/133777428",
+        "equipment": "Xiaomi mi A3",
+        "name": "Максим",
+        "description": null,
+        "price": 280.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi A3",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602007123.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693483804.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610530442.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777396,
+        "http": "https://www.kufar.by/item/133777396",
+        "equipment": "Lenovo",
+        "name": "Виталий",
+        "description": null,
+        "price": 50.0,
+        "phones_brand": "Lenovo",
+        "model": "Другая",
+        "memory": "до 8 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620349891.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684572780.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777359,
+        "http": "https://www.kufar.by/item/133777359",
+        "equipment": "Sony М4 Agua",
+        "name": "Aifl",
+        "description": null,
+        "price": 80.0,
+        "phones_brand": "Sony",
+        "model": "Другая",
+        "memory": "32 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5656155873.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685093500.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693616819.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602140138.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133777097,
+        "http": "https://www.kufar.by/item/133777097",
+        "equipment": "Mi 9T",
+        "name": "Виктор",
+        "description": null,
+        "price": 380.0,
+        "phones_brand": "Xiaomi",
+        "model": "Другая",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680325556.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776871,
+        "http": "https://www.kufar.by/item/133776871",
+        "equipment": "Huawei p30 lite 4gb/128gb",
+        "name": "Александр ",
+        "description": null,
+        "price": 185.0,
+        "phones_brand": "Huawei",
+        "model": "P30 lite",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633999988.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625476669.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5651046626.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5642523307.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776843,
+        "http": "https://www.kufar.by/item/133776843",
+        "equipment": "Samsung A5 2017 A520F",
+        "name": "Ян",
+        "description": null,
+        "price": 160.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A5",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688715860.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680192541.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776803,
+        "http": "https://www.kufar.by/item/133776803",
+        "equipment": "телефон sony xperia C3",
+        "name": "Алёна",
+        "description": null,
+        "price": 70.0,
+        "phones_brand": "Sony",
+        "model": "Другая",
+        "memory": "до 8 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5621246976.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5629770295.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604796331.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5643923581.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652446900.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776708,
+        "http": "https://www.kufar.by/item/133776708",
+        "equipment": "Samsung A12",
+        "name": "Евгений",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A12",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667080695.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684127333.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675604014.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692650652.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133355381,
+        "http": "https://www.kufar.by/item/133355381",
+        "equipment": "Samsung Galaxy J6 3GB",
+        "name": "Дима",
+        "description": null,
+        "price": 155.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J6",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5665089577.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655223726.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605451108.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624852847.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/54/5420169920.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/51/5139217481.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/51/5147740800.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5621409904.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776496,
+        "http": "https://www.kufar.by/item/133776496",
+        "equipment": "iPhone 5s 16gb",
+        "name": "аааа",
+        "description": null,
+        "price": 50.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5s",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668585113.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660061794.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677108432.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685631751.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5641000316.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776466,
+        "http": "https://www.kufar.by/item/133776466",
+        "equipment": "iPhone X ",
+        "name": "Влад",
+        "description": null,
+        "price": 1050.0,
+        "phones_brand": "Apple",
+        "model": "iPhone X",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5638010053.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5646533372.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655056691.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776322,
+        "http": "https://www.kufar.by/item/133776322",
+        "equipment": "Huawei p40 lite зеленый",
+        "name": "Наталья",
+        "description": null,
+        "price": 450.0,
+        "phones_brand": "Huawei",
+        "model": "P40 lite",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655050500.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644299946.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695439860.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678393222.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669869903.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652823265.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603963179.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661346584.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647678956.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133716474,
+        "http": "https://www.kufar.by/item/133716474",
+        "equipment": "Самсунг A 51 супер AMOLED экран",
+        "name": "Елена ",
+        "description": null,
+        "price": 420.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A51",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625580813.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5597866249.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5514912887.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5589342930.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5580819611.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776213,
+        "http": "https://www.kufar.by/item/133776213",
+        "equipment": "Samsung Galaxy S10+ G975f аквамарин ",
+        "name": "Стас",
+        "description": null,
+        "price": 1100.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy S10+",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648292480.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639769161.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5656815799.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776179,
+        "http": "https://www.kufar.by/item/133776179",
+        "equipment": "Самсунг g7",
+        "name": "XXX",
+        "description": null,
+        "price": 220.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy J7 ",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637101628.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5645624947.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662671585.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5654148266.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776083,
+        "http": "https://www.kufar.by/item/133776083",
+        "equipment": "Телефон  Huawei Y6 2019",
+        "name": "Екатерина ",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "Huawei",
+        "model": "Y6",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681639217.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607209174.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698685855.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133776062,
+        "http": "https://www.kufar.by/item/133776062",
+        "equipment": "Продам Huawei P30 ELE-L29 Dual SIM 6GB/128GB",
+        "name": "un.drone",
+        "description": null,
+        "price": 850.0,
+        "phones_brand": "Huawei",
+        "model": "P30",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133776020,
+        "http": "https://www.kufar.by/item/133776020",
+        "equipment": "Redmi Note 9 возможен торг ",
+        "name": "Артём Демьянович",
+        "description": null,
+        "price": 350.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604588043.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613111362.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775888,
+        "http": "https://www.kufar.by/item/133775888",
+        "equipment": "iPhone 6+",
+        "name": "Саша",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 6 Plus",
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680181201.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5646087925.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5663134563.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5654611244.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5629041287.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637564606.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620517968.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775811,
+        "http": "https://www.kufar.by/item/133775811",
+        "equipment": "Хонор 9x",
+        "name": "XXX",
+        "description": null,
+        "price": 500.0,
+        "phones_brand": "Honor",
+        "model": "9X",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611190368.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619713687.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5628237006.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694143730.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775741,
+        "http": "https://www.kufar.by/item/133775741",
+        "equipment": "Xiaomi Mi 9T 6/128",
+        "name": "Тимофей",
+        "description": null,
+        "price": 650.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 9T Pro",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671270177.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679793496.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688316815.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662746858.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613886772.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696840134.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622410091.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775724,
+        "http": "https://www.kufar.by/item/133775724",
+        "equipment": "iPhone 8 Gold 64 GB",
+        "name": "Николай",
+        "description": null,
+        "price": 540.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648547170.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612770059.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634376353.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620205536.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5624765192.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658858468.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5684428425.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5601475063.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775612,
+        "http": "https://www.kufar.by/item/133775612",
+        "equipment": "iPhone 12 128 Gb Blue (синий) ",
+        "name": "Михаил",
+        "description": null,
+        "price": 2090.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 12",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5643739015.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5635215696.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660785653.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669308972.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652262334.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686355610.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677832291.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775576,
+        "http": "https://www.kufar.by/item/133775576",
+        "equipment": "Samsung galaxy A9 (2018)",
+        "name": "Никита",
+        "description": null,
+        "price": 450.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A9 ",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610565504.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699270508.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5663597541.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647638745.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609089957.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677872502.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775488,
+        "http": "https://www.kufar.by/item/133775488",
+        "equipment": "Ридми 4а",
+        "name": "Юрий",
+        "description": null,
+        "price": 20.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 4",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5630592107.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639115426.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775460,
+        "http": "https://www.kufar.by/item/133775460",
+        "equipment": "iPhone 7 Plus 32gb",
+        "name": "Артём",
+        "description": null,
+        "price": 430.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7 Plus",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5618701118.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610177799.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775367,
+        "http": "https://www.kufar.by/item/133775367",
+        "equipment": "Срочно redmi note 9",
+        "name": "Ваня ",
+        "description": null,
+        "price": 260.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662480828.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671004147.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694560306.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603083625.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611606944.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637176901.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5628653582.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686036987.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775222,
+        "http": "https://www.kufar.by/item/133775222",
+        "equipment": "Xiaomi Redmi 9 32gb Carbon Grey",
+        "name": "Сэд",
+        "description": null,
+        "price": 300.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 9",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675430788.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666907469.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775183,
+        "http": "https://www.kufar.by/item/133775183",
+        "equipment": "IPhone 6s 32GB ",
+        "name": "Пользователь ",
+        "description": null,
+        "price": 230.0,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644734053.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636210734.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602117458.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693594139.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5627687415.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610640777.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619164096.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775145,
+        "http": "https://www.kufar.by/item/133775145",
+        "equipment": "IPhone XS 64 GB",
+        "name": "Максим",
+        "description": null,
+        "price": 1449.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619835362.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677218767.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685742086.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611312043.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602788724.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694265405.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775118,
+        "http": "https://www.kufar.by/item/133775118",
+        "equipment": "Айфон 5s",
+        "name": "Mакс",
+        "description": null,
+        "price": 30.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5s",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133775112,
+        "http": "https://www.kufar.by/item/133775112",
+        "equipment": "Xiaomi Redmi 5",
+        "name": "Валерий ",
+        "description": null,
+        "price": 30.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 5",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5672450823.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775025,
+        "http": "https://www.kufar.by/item/133775025",
+        "equipment": "Redmi note 8 pro",
+        "name": "****",
+        "description": null,
+        "price": 340.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 8 Pro",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662423086.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670946405.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775009,
+        "http": "https://www.kufar.by/item/133775009",
+        "equipment": "Samsung a10 3/32",
+        "name": "Настя",
+        "description": null,
+        "price": 110.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A10",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5621727485.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604680847.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696157528.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133775010,
+        "http": "https://www.kufar.by/item/133775010",
+        "equipment": "Huawei P20 Lite",
+        "name": "Костя",
+        "description": null,
+        "price": 260.0,
+        "phones_brand": "Huawei",
+        "model": "P20 lite ",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678694314.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670170995.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774943,
+        "http": "https://www.kufar.by/item/133774943",
+        "equipment": "Google Pixel 4 с новым оригинальным чехлом",
+        "name": "Dmitry",
+        "description": null,
+        "price": 920.0,
+        "phones_brand": "Google",
+        "model": "Pixel 4",
+        "memory": "64 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652094257.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5660617576.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669140895.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5677664214.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774922,
+        "http": "https://www.kufar.by/item/133774922",
+        "equipment": "Xiaomi redmi note 7",
+        "name": "татьяна",
+        "description": null,
+        "price": 285.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 7",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612683446.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653020213.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670066851.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644496894.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661543532.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678590170.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774917,
+        "http": "https://www.kufar.by/item/133774917",
+        "equipment": "HUAWEI p30 lite",
+        "name": "Алёна ",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Huawei",
+        "model": "P30 lite",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653975040.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662498359.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671021678.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679544997.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688068316.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696591635.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774834,
+        "http": "https://www.kufar.by/item/133774834",
+        "equipment": "Мобильный телефон ",
+        "name": "Валерьян ",
+        "description": null,
+        "price": 150.0,
+        "phones_brand": "ZTE",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5682733250.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691256569.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699779888.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608303207.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616826526.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774771,
+        "http": "https://www.kufar.by/item/133774771",
+        "equipment": "Телефон ",
+        "name": "Алеся",
+        "description": null,
+        "price": 280.0,
+        "phones_brand": "Huawei",
+        "model": "P Smart Z",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612550431.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611462589.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693328109.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613250568.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675297773.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774733,
+        "http": "https://www.kufar.by/item/133774733",
+        "equipment": "Телефон , Redmi 4X",
+        "name": "Маргарита",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi 4X",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133774697,
+        "http": "https://www.kufar.by/item/133774697",
+        "equipment": "iPhone 11 Pro 64",
+        "name": "Ника",
+        "description": null,
+        "price": 1800.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11 Pro",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5633381315.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774698,
+        "http": "https://www.kufar.by/item/133774698",
+        "equipment": "HUAWEI Nova",
+        "name": "Антон",
+        "description": null,
+        "price": 180.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631999614.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680187453.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671664134.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5640522933.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774691,
+        "http": "https://www.kufar.by/item/133774691",
+        "equipment": "ZTE A316G практически новый ( вздутая батарея)",
+        "name": "Александр",
+        "description": null,
+        "price": 10.0,
+        "phones_brand": "ZTE",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625529262.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608482624.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617005943.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634052581.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5651099219.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699959305.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5642575900.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774688,
+        "http": "https://www.kufar.by/item/133774688",
+        "equipment": "Iphone 8, 64 GB",
+        "name": "Dana",
+        "description": null,
+        "price": 750.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612388545.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5669771950.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678295269.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686818588.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5695341907.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603865226.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5620911864.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5637958502.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5629435183.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774585,
+        "http": "https://www.kufar.by/item/133774585",
+        "equipment": "iPhone 7 128gb",
+        "name": "Ксения",
+        "description": null,
+        "price": 400.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5678503557.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631431450.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5689410848.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673556196.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600318139.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5654883465.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774586,
+        "http": "https://www.kufar.by/item/133774586",
+        "equipment": "IPhone 6s 16 gb",
+        "name": "Сергей",
+        "description": null,
+        "price": 170.0,
+        "phones_brand": "Apple",
+        "model": "IPhone 6s",
+        "memory": "16 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5671380512.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5622520426.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696950469.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679903831.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5605473788.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688427150.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613997107.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774526,
+        "http": "https://www.kufar.by/item/133774526",
+        "equipment": "Inoi 101",
+        "name": "Данила ",
+        "description": null,
+        "price": 20.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5645555865.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673405650.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774466,
+        "http": "https://www.kufar.by/item/133774466",
+        "equipment": "Телефон Samsung ",
+        "name": "nezer top",
+        "description": null,
+        "price": 45.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649370024.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5657893343.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5654838105.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5640846705.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631223162.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 130811796,
+        "http": "https://www.kufar.by/item/130811796",
+        "equipment": "Xiaomi mi 6",
+        "name": "Продавец",
+        "description": null,
+        "price": 280.0,
+        "phones_brand": "Xiaomi",
+        "model": "Mi 6",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1949878144.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1986251248.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1941354825.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1997054395.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1962961119.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1954437800.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1977727929.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/19/1907261549.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774332,
+        "http": "https://www.kufar.by/item/133774332",
+        "equipment": "Samsung A12. Состояние нового ",
+        "name": "продам",
+        "description": null,
+        "price": 370.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A12",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5613429985.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604906666.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679336709.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653766752.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662290071.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670813390.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774280,
+        "http": "https://www.kufar.by/item/133774280",
+        "equipment": "Redmi note 10",
+        "name": "Мах",
+        "description": null,
+        "price": 399.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 10",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133774263,
+        "http": "https://www.kufar.by/item/133774263",
+        "equipment": "nokia",
+        "name": "Данила ",
+        "description": null,
+        "price": 20.0,
+        "phones_brand": "Nokia",
+        "model": "1",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5698246599.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5606769918.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774249,
+        "http": "https://www.kufar.by/item/133774249",
+        "equipment": "Samsung Galaxy A50 в идеале полный комплект",
+        "name": "Александр",
+        "description": null,
+        "price": 350.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A50",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5686743315.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668012842.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5674852326.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619748749.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673168491.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5618064914.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5673764484.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5601614269.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5603894097.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133774182,
+        "http": "https://www.kufar.by/item/133774182",
+        "equipment": "А1 Alpha",
+        "name": "Валера",
+        "description": null,
+        "price": 120.0,
+        "phones_brand": "Другие марки",
+        "model": null,
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600601700.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626171657.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617648338.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609125019.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133508574,
+        "http": "https://www.kufar.by/item/133508574",
+        "equipment": "Iphone 7 plus",
+        "name": "Максим",
+        "description": null,
+        "price": 350.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7 Plus",
+        "memory": "32 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5342589934.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5334066615.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5359636572.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5351113253.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773919,
+        "http": "https://www.kufar.by/item/133773919",
+        "equipment": "Продам кнопочный сотовый телефон самсунг",
+        "name": "Игорь",
+        "description": null,
+        "price": 7.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5604924197.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133518571,
+        "http": "https://www.kufar.by/item/133518571",
+        "equipment": "iPhone 8 64GB",
+        "name": "Олег",
+        "description": null,
+        "price": 630.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5312342753.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5344260345.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5352783664.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5361306983.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5369830302.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5378353621.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5386876940.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5395400259.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/53/5303923578.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773903,
+        "http": "https://www.kufar.by/item/133773903",
+        "equipment": "iPhone 7 ,32 ",
+        "name": "Эльнур",
+        "description": null,
+        "price": 540.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5661040343.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5670755648.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5696921598.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612880394.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610108717.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773890,
+        "http": "https://www.kufar.by/item/133773890",
+        "equipment": "Xiaomi note 9",
+        "name": "Кристина",
+        "description": null,
+        "price": 350.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5693733345.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602256664.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773888,
+        "http": "https://www.kufar.by/item/133773888",
+        "equipment": "телефоны",
+        "name": "Ярослав ",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5667463251.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658939932.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132189670,
+        "http": "https://www.kufar.by/item/132189670",
+        "equipment": "Телефон ",
+        "name": "Максим ",
+        "description": null,
+        "price": 200.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 5s",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3710588840.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3785018883.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3719112159.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3702065521.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3793542202.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3727635478.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3776495564.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3767972245.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/37/3730019450.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773666,
+        "http": "https://www.kufar.by/item/133773666",
+        "equipment": "Fly fs406 ",
+        "name": "Игорь",
+        "description": null,
+        "price": 20.0,
+        "phones_brand": "Fly",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5675182289.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5663887293.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694612899.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666271265.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773504,
+        "http": "https://www.kufar.by/item/133773504",
+        "equipment": "HONOR 20 6/128gb",
+        "name": "Андрей",
+        "description": null,
+        "price": 400.0,
+        "phones_brand": "Honor",
+        "model": "20",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5616994603.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5642564560.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5634041241.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773491,
+        "http": "https://www.kufar.by/item/133773491",
+        "equipment": "Huawei ",
+        "name": "сергей",
+        "description": null,
+        "price": 250.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": []
+    },
+    {
+        "id": 133773364,
+        "http": "https://www.kufar.by/item/133773364",
+        "equipment": "Продам сотовый телефон нокия 6170",
+        "name": "Игорь",
+        "description": null,
+        "price": 15.0,
+        "phones_brand": "Nokia",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5621808949.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773353,
+        "http": "https://www.kufar.by/item/133773353",
+        "equipment": "iPhone 7",
+        "name": "Сергей ",
+        "description": null,
+        "price": 315.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "128 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649271029.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5657794348.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5666317667.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5674840986.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600410943.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683364305.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691887624.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608934262.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133717604,
+        "http": "https://www.kufar.by/item/133717604",
+        "equipment": "iPhone 11 pro",
+        "name": "Наталия",
+        "description": null,
+        "price": 2000.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11 Pro",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5587519889.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5504566527.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5513089846.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5549642367.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5534875557.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5553918462.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5550550792.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5585240061.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5553426613.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773270,
+        "http": "https://www.kufar.by/item/133773270",
+        "equipment": "TEXET TM 511R",
+        "name": "А.",
+        "description": null,
+        "price": 70.0,
+        "phones_brand": "TeXet",
+        "model": null,
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5612076113.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773164,
+        "http": "https://www.kufar.by/item/133773164",
+        "equipment": "Apple iPhone 7",
+        "name": "Ирина",
+        "description": null,
+        "price": 600.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 7",
+        "memory": "32 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5619593054.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5685499778.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5602546416.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5611069735.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5694023097.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5628116373.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133773089,
+        "http": "https://www.kufar.by/item/133773089",
+        "equipment": "Телефон",
+        "name": "вадим",
+        "description": null,
+        "price": 90.0,
+        "phones_brand": "Lenovo",
+        "model": "Другая",
+        "memory": "до 8 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5646100307.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5690996730.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5699520049.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5608043368.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5659183282.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133772995,
+        "http": "https://www.kufar.by/item/133772995",
+        "equipment": "iPhone 8",
+        "name": "Андрей",
+        "description": null,
+        "price": 675.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5683439578.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5691962897.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133770516,
+        "http": "https://www.kufar.by/item/133770516",
+        "equipment": " Nokia 8910",
+        "name": "Олег",
+        "description": null,
+        "price": 0.0,
+        "phones_brand": "Nokia",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5672457014.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5680980333.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5689503652.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133680627,
+        "http": "https://www.kufar.by/item/133680627",
+        "equipment": "Продается Iphone XS 64gb Space gray (серый космос)",
+        "name": "Игорь",
+        "description": null,
+        "price": 1050.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5578836829.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5519769589.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5532852564.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5576065152.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5572101489.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/55/5578940973.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771985,
+        "http": "https://www.kufar.by/item/133771985",
+        "equipment": "Телефон Samsung S5611",
+        "name": "Влад",
+        "description": null,
+        "price": 19.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5659588518.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5676635156.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5668111837.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771942,
+        "http": "https://www.kufar.by/item/133771942",
+        "equipment": "Мобильный телефон ",
+        "name": "Инна",
+        "description": null,
+        "price": 200.0,
+        "phones_brand": "Samsung",
+        "model": "Galaxy A50",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617851477.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600804839.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609328158.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771894,
+        "http": "https://www.kufar.by/item/133771894",
+        "equipment": "Apple iPhone 8 Plus 64gb белый оригинальный ",
+        "name": "Илья ",
+        "description": null,
+        "price": 800.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 8 Plus",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658112971.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649589652.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5600729566.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5692206247.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771880,
+        "http": "https://www.kufar.by/item/133771880",
+        "equipment": "HUAWEI P8 lite",
+        "name": "Vlad Glushakov",
+        "description": null,
+        "price": 85.0,
+        "phones_brand": "Huawei",
+        "model": "Другая",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681108199.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664061561.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5655538242.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652436602.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133770091,
+        "http": "https://www.kufar.by/item/133770091",
+        "equipment": "РЕДМИ НОУТ 8 (Neptune Blue) 4/64/48МП",
+        "name": "Владислав",
+        "description": null,
+        "price": 315.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 8T",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649833002.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5697778472.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5635662185.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5640117697.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5662308644.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5609589039.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133421868,
+        "http": "https://www.kufar.by/item/133421868",
+        "equipment": "Xiaomi redmi note 10",
+        "name": "1834",
+        "description": null,
+        "price": 460.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 10",
+        "memory": "64 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5250479316.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5259002635.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5267525954.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133173014,
+        "http": "https://www.kufar.by/item/133173014",
+        "equipment": "iPhone XS Space Gray 64 идеал ",
+        "name": "Мария",
+        "description": null,
+        "price": 960.0,
+        "phones_brand": "Apple",
+        "model": "iPhone XS",
+        "memory": "64 GB",
+        "ram_memory": "3 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4951011986.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4959535305.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4968058624.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/49/4976581943.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 132913694,
+        "http": "https://www.kufar.by/item/132913694",
+        "equipment": "Xiaomi Redmi note 9 pro 6gb 64gb",
+        "name": "Алексей",
+        "description": null,
+        "price": 500.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro",
+        "memory": "64 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/46/4617411169.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/46/4619690997.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/46/4611167678.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5679916213.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/46/4602644359.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771369,
+        "http": "https://www.kufar.by/item/133771369",
+        "equipment": "Samsung A51 6/128",
+        "name": "Валерия Казанова ",
+        "description": null,
+        "price": 380.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": "128 GB",
+        "ram_memory": "6 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653362558.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5647506772.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5656030091.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5664553410.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771367,
+        "http": "https://www.kufar.by/item/133771367",
+        "equipment": "Xiaomi Note 9 4/128 NFC",
+        "name": "Андрей",
+        "description": null,
+        "price": 340.0,
+        "phones_brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "memory": "128 GB",
+        "ram_memory": "4 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626172699.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5617649380.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5625570515.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771233,
+        "http": "https://www.kufar.by/item/133771233",
+        "equipment": "HUAWEI Y5 Lite",
+        "name": "Артем",
+        "description": null,
+        "price": 65.0,
+        "phones_brand": "Huawei",
+        "model": "Y5 lite",
+        "memory": "16 GB",
+        "ram_memory": "до 2 GB",
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5621549110.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5688647820.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5681316487.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5610954251.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133771202,
+        "http": "https://www.kufar.by/item/133771202",
+        "equipment": "Samsung Galaxy Ace 2 i8160",
+        "name": "Владимир",
+        "description": null,
+        "price": 30.0,
+        "phones_brand": "Samsung",
+        "model": "Другая",
+        "memory": null,
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5640984869.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5658031507.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5649508188.jpg?rule=gallery"
+        ]
+    },
+    {
+        "id": 133770829,
+        "http": "https://www.kufar.by/item/133770829",
+        "equipment": "Apple iPhone 11 Pro 256 GB,    96% акб  ,  Европа",
+        "name": "Виктор",
+        "description": null,
+        "price": 2100.0,
+        "phones_brand": "Apple",
+        "model": "iPhone 11 Pro",
+        "memory": "256 GB",
+        "ram_memory": null,
+        "locaton": "Минск",
+        "photo": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5644111273.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5631624291.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5636779940.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5607246320.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5652142743.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5639655761.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5648775073.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5626080937.jpg?rule=gallery",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/56/5653930722.jpg?rule=gallery"
+        ]
+    }
+]
